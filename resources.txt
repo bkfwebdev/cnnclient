@@ -1,0 +1,24 @@
+overview of web application testing
+https://www.guru99.com/web-application-testing.html
+
+youtube video from google i/o 2017
+https://youtu.be/6Ljq-Jn-EgU
+
+some free online testing tools
+https://youtu.be/AkTYDHRyLQg
+
+tutorials point course
+https://www.tutorialspoint.com/software_testing_dictionary/web_application_testing.htm
+
+treehouse course on selenium
+https://teamtreehouse.com/library/introduction-to-selenium
+
+books used as reference
+
+Testing Applications on the Web: Test Planning for Internet-Based Systems 1st Edition
+https://www.amazon.com/gp/product/047139470X/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
+
+Using WebPageTest: Web Performance Testing for Novices and Power Users 1st Edition
+https://www.amazon.com/gp/product/1491902590/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
+
+

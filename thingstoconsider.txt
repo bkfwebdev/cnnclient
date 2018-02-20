@@ -1,0 +1,9 @@
+things to consider
+
+Be prepared to answer the following questions:
+What research did you do to prepare for this exercise? 
+What assumptions did you make about the work? 
+What is the process for communicating defects back to the development team that will be responsible for fixing them? 
+What tools would be useful to you in performing and tracking your work?
+How would testing a site like this differ from testing something like your bank’s website?
+Your presentation should last no more than 15 minutes, and we'll spend about another 15 minutes on Q&A.   
